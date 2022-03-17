@@ -23,7 +23,7 @@ export default function Login() {
                     <a href='#' className='mx-2'>Recuperar senha</a>
                     <span className="symbol">&#9875;</span>
                     <a href='#' className='mx-2'>Quero cadastrar</a>
-                </div>
+                </div> 
             </form>
         </div>
     )
